@@ -13,4 +13,5 @@ cat("Hello love")
 <<<<<<< HEAD
 "Mal sehen was mit dem Konflikt passiert, was ich über GitHub online erzeugt habe
 #vor einigen Sekunden
+" Hier muss ich einen Konflikt erzeugen und den dan lösen."
 >>>>>>> daaccf7b70535dccebf5528fe7979575b3e80b4c
