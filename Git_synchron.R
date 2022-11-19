@@ -18,3 +18,7 @@ cat("Hello love")
 
 #Das ist jetzt ein neuer "branch" vom dem Projekt"
 #Jetzt kommt noch ein Schritt: im master ändern und diese Änderungen in einem branch übernehmen"
+
+devtools::install_github("https://github.com/imbi-heidelberg/DescrTab2")
+library(DescrTab2)
+descr(iris)
