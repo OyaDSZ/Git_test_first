@@ -15,3 +15,5 @@ cat("Hello love")
 #vor einigen Sekunden
 " Hier muss ich einen Konflikt erzeugen und den dan lösen."
 >>>>>>> daaccf7b70535dccebf5528fe7979575b3e80b4c
+
+#Das ist jetzt ein neuer "branch" vom dem Projekt"
