@@ -10,5 +10,7 @@ library()
 
 cat("Hello love")
 
+<<<<<<< HEAD
 "Mal sehen was mit dem Konflikt passiert, was ich über GitHub online erzeugt habe
 #vor einigen Sekunden
+>>>>>>> daaccf7b70535dccebf5528fe7979575b3e80b4c
