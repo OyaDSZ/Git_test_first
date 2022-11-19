@@ -17,3 +17,4 @@ cat("Hello love")
 >>>>>>> daaccf7b70535dccebf5528fe7979575b3e80b4c
 
 #Das ist jetzt ein neuer "branch" vom dem Projekt"
+#Jetzt kommt noch ein Schritt: im master ändern und diese Änderungen in einem branch übernehmen"
