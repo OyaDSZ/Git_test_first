@@ -2,4 +2,8 @@
 
 install.packages()
 library()
-#erste Änderungen
+#erste Änderungen#
+
+
+#nachdem Synchronisieren geklappt hat, machen wir weiter in einem#
+#weiteren Schritt#
